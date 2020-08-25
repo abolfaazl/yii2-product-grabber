@@ -1,0 +1,21 @@
+{
+    "name": "abolfaazl/yii2-product-grabber",
+    "description": "This Extension accept you to grabber product with sites with CssSelector or meta.",
+    "type": "yii2-extension",
+    "keywords": ["product"," grabber"," scrapper"," crawler"," crawl"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Abolfaazl",
+            "email": "abolfaazl@outlook.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "abolfaazl\\productGrabber\\": ""
+        }
+    }
+}
