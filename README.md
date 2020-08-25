@@ -1,6 +1,6 @@
 Yii2 Product Grabber
 ====================
-This Extension accept you to grabber product with sites with CssSelector or meta.
+This Extension help you to grabber product with sites with CssSelector or meta.
 
 Installation
 ------------
